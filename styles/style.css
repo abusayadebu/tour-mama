@@ -67,3 +67,38 @@ body{
 }
 
 /* banner section style ends here */
+
+
+/* service section style starts here */
+.service-section{
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1260px;
+    text-align: center;
+}
+
+.service-section h5{
+    font-size: 24px;
+    font-weight: bold;
+    color: #F411CF;
+    margin-bottom: 10px;
+}
+
+.service-section h3{
+    font-size: 40px;
+    font-weight: bold;
+    color: #1C1C1C;
+}
+.cart-container{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    
+}
+
+.cart-1{
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    padding: 80px 20px;
+}
