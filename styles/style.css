@@ -119,3 +119,23 @@ body{
 .great-wall-contents *{
     margin-bottom: 10px;
 }
+
+/* countries-section style starts here */
+
+.country-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+.country-btn{
+    padding: 40px;
+    border-radius: 16px;
+    border: none;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 10px;
+}
